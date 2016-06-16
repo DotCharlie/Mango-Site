@@ -1,0 +1,85 @@
+ body {
+		  background: #efefef;
+		  margin: 0 auto;
+		}
+		
+		.nav_bar {
+		  height: 26px;
+		  background: #ffffff;
+		  border: 1px solid #000000;
+		  width: 100%;
+		  margin: auto;
+		  font-size: 13px;
+		  font-weight: 0;
+		  padding: 10px 10px 10px 10px;
+		}
+		
+		.nav_bar a {
+		  color: #7c7c7c;
+		  text-decoration: none;
+		  margin-left: 20px;
+		  margin-right: 20px;
+		  padding: 10px 10px 10px 10px;
+		  font-family: Helvetica;
+		}
+		
+		.nav_bar a:hover {               
+		  color: #7c7c7c;
+		  text-decoration: none;
+		  padding: 10px 10px 10px 10px;
+		  border-bottom: orange solid 4px;
+		}
+		
+		#nav_imgwrap {
+		  position: absolute;
+		  top: 0.5;
+		  left: 5;
+		}
+		
+		.nav_item {
+		  position: relative;
+		  top: 7px;
+		}
+		
+		#nav_homewrap {
+		  position: absolute;
+		  top: 9;
+		  left: 90;
+		}
+		
+		#nav_storewrap {
+		  position: absolute;
+		  top: 10;
+		  left: 188;
+		}
+		
+		#nav_productswrap {
+		  position: absolute;
+		  top: 12;
+		  left: 284;
+		}
+		
+		#nav_newswrap {
+		  position: absolute;
+		  top: 11;
+		  left: 401;
+		}
+		
+		#nav_contactwrap {
+		  position: absolute;
+		  top: 13;
+		  left: 498;
+		}
+		
+		#nav_logo {
+		  position: absolute;
+		  top: 5;
+		  left: 55%;
+		}
+		
+		p 
+		{
+			color: #000000;
+			font-family: cursive;
+			font-weight: none;
+		}
